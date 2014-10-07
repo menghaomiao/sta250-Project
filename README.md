@@ -1,6 +1,6 @@
 sta250-Project
 ==============
 
-It is about visualization of robot player log files.
+Visualization of robot player log files.
 
-Usage: put ui.R, server.R and robot log files into the same R working dictory. Open R and type runApp() to run it!
+Usage: put ui.R, server.R and robot log files into the same R working dictory. Open R and type library(shiny); runApp() to run it!
